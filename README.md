@@ -7,6 +7,8 @@ https://github.com/geaxgx/playing-card-detection
 #### Download model weights
 https://drive.google.com/drive/folders/15_SebB7ZylDQoyFn4xpBUgiUrMvpTDOT?usp=sharing
 
+`yolocards_608.weights` file goes inside /yolov3 folder
+
 #### Screenshots
 
 ###### Example 01
@@ -17,6 +19,11 @@ https://drive.google.com/drive/folders/15_SebB7ZylDQoyFn4xpBUgiUrMvpTDOT?usp=sha
 
 ###### Example 03
 ![Example 01](results/result_03.png)
+
+## Requirements
+`Python3`
+`opencv-python`
+`numpy`
 
 ## Contributing
 
